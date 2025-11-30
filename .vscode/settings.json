@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./programming_paradigm/test_"
+    ]
+}
